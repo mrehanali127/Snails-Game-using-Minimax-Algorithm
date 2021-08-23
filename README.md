@@ -14,4 +14,5 @@ than opponent. We will discuss its complete working later.
 This game is design and implemented in Python3 a general-purpose programming language. You have to install python environment first.
 ### Libraries:
 Arcade is used for make an interactive user interface for game. Arcade has many powerful functions to develop 2D games. We have used this one because it is easy to integrate with Python3. 
-![alt text]()
+### Game UI
+![alt text](https://github.com/mrehanali127/Snails-Game-using-Minimax-Algorithm/blob/master/image.png)
